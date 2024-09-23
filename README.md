@@ -12,14 +12,19 @@ Este proyecto, desarrollado en Java con NetBeans, es una aplicación gráfica pa
   - **Agregar Estudiantes:** Ingreso de datos básicos como cédula, nombre, primer apellido, segundo apellido y carrera.
   - **Modificar Estudiantes:** Actualización de la información del estudiante.
   - **Eliminar Estudiantes:** Eliminación de registros de estudiantes.
+  <img src="Demostración/Gestión.png" alt="Captura Gestión.png" width="800" />
 
 - **Gestión de Notas:**
   - **Asignación de Notas:** Ingreso y edición de los promedios de proyectos asociados a cada estudiante.
   - **Consulta de Notas:** Búsqueda de estudiantes por cédula para asignar o editar sus promedios.
+  <img src="Demostración/Promedios.png" alt="Captura Promedios.png" width="800" />
 
 - **Visualización y Filtrado:**
   - **Lista de Estudiantes:** Visualización de todos los estudiantes con sus datos y promedios.
   - **Filtrado de Estudiantes:** Filtrado de estudiantes por promedios o carrera.
+  <img src="Demostración/Estudiantes.png" alt="Captura Estudiantes.png" width="800" />
+
+  También puedes ver el [Video Demostración](Demostración/Demo.mp4) completo.
 
 ### Tecnologías Utilizadas:
 
